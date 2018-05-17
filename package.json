@@ -1,0 +1,23 @@
+{
+  "name": "conuhackathon2018",
+  "version": "1.0.0",
+  "description": "overseer",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinaSelim/ConUHackathon2018"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node" : "8.9.3"
+  }
+}
